@@ -85,13 +85,13 @@ body {
 }
 
 button {
-  color: #385025;
+  color: #ffffff;
   font-size: 1rem;
   font-weight: 600;
   cursor: pointer;
   outline: none;
   border: none;
-  background-color: #B42D1A;
+  background-color: #294221;
   border-radius: 4px;
   text-transform: uppercase;
   transition: background-color 0.3s ease;
